@@ -6,4 +6,7 @@
     <string name="Apellido">Apellido</string>
     <string name="guardar">Guardar</string>
     <string name="borrar">Borrar</string>
+    <string name="id">ID</string>
+    <string name="no">No.</string>
+    <string name="nombre">Nombre</string>
 </resources>
