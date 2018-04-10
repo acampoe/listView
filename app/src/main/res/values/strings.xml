@@ -8,5 +8,11 @@
     <string name="borrar">Borrar</string>
     <string name="id">ID</string>
     <string name="no">No.</string>
-    <string name="nombre">Nombre</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="mg">Guardado Exitosamente</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
